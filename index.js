@@ -384,4 +384,4 @@ if (message.content.startsWith(prefix + 'help')) {
 
 
 
-client.login("");
+client.login("NzU5MDg0NDc5NzYyMzk5MjYy.X24Wgw._n2Yk68HjM0opNt11udLn5G0OYE");
